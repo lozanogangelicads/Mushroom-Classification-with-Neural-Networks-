@@ -61,7 +61,7 @@ Included in the notebook:
 - `README.md`
 
 ### 1. 🍄 Mushroom Classification with Neural Networks and PCA
-- **Repo**: [mushroom-classification](https://github.com/yourusername/mushroom-classification)
+- **Repo**: [mushroom-classification](https://github.com/lozanogangelicads/mushroom-classification)
 - Built two neural networks to classify mushrooms as edible or poisonous. Applied PCA to improve performance and reduce dimensionality.
 - Tools: Python, TensorFlow, Keras, PCA, Scikit-learn
 
