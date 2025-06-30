@@ -59,3 +59,9 @@ Included in the notebook:
 - `pca_mushroom_model_.h5`: Trained neural network model using PCA  
 - `agaricus-lepiota_.csv` 
 - `README.md`
+
+### 1. 🍄 Mushroom Classification with Neural Networks and PCA
+- **Repo**: [mushroom-classification](https://github.com/yourusername/mushroom-classification)
+- Built two neural networks to classify mushrooms as edible or poisonous. Applied PCA to improve performance and reduce dimensionality.
+- Tools: Python, TensorFlow, Keras, PCA, Scikit-learn
+
